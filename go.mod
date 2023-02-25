@@ -105,7 +105,7 @@ require (
 	go.uber.org/multierr v1.1.0 // indirect
 	go4.org v0.0.0-20190313082347-94abd6928b1d // indirect
 	golang.org/x/sync v0.0.0-20190423024810-112230192c58 // indirect
-	golang.org/x/sys v0.0.0-20190926180325-855e68c8590b
+	golang.org/x/sys v0.1.0
 	gopkg.in/cheggaaa/pb.v1 v1.0.28
 )
 
